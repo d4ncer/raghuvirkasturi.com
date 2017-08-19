@@ -1,9 +1,13 @@
-# [master]
+# CHANGELOG
+
+Main purpose is coming up with fun names for releases.
+
+### [master]
 * Initialise README
 * Add this CHANGELOG
 
-# 0.0.2 "arcwine for all"
+### 0.0.2 "arcwine for all"
 * Add Makefile for builds / deployment
 
-# 0.0.1 "cussed cobra"
+### 0.0.1 "cussed cobra"
 * Life began here
