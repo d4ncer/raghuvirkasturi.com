@@ -1,11 +1,8 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
-  },
+  "name": "raghuvirkasturi.com",
+  "description": "My blog",
+  "version": "0.0.1",
+  "author": "Raghuvir Kasturi <raghuvir.kasturi@gmail.com>",
   "dependencies": {
     "gatsby": "^1.8.12",
     "gatsby-link": "^1.6.8",
@@ -31,18 +28,12 @@
     "typography-theme-wordpress-2016": "^0.15.1"
   },
   "devDependencies": {
-    "gh-pages": "^0.12.0",
     "prettier": "^1.5.3"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
   "license": "MIT",
-  "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": git@github.com:d4ncer/raghuvirkasturi.com.git""
   },
   "scripts": {
     "dev": "gatsby develop",
