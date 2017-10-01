@@ -6,7 +6,11 @@
   },
   "plugins": ["react", "jsx-a11y", "import"],
   "parser": "babel-eslint",
+  "globals": {
+    "graphql": false
+  },
   "rules": {
+    "no-console": "off",
     "no-confusing-arrow": "off",
     "no-return-assign": "off",
     "arrow-parens": "off",
