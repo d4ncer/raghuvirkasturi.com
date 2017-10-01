@@ -1,7 +1,7 @@
 {
   "name": "raghuvirkasturi.com",
   "description": "My blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Raghuvir Kasturi <raghuvir.kasturi@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.38",
