@@ -3,6 +3,8 @@
 Main purpose is coming up with fun names for releases.
 
 ### [master]
+
+### 1.0.2 "jazz hands"
 * Use `npm` instead of `yarn` in Makefile
 
 ### 1.0.1 "hummingbird saltalamacchia"
