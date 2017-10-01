@@ -65,15 +65,16 @@ http {
       add_header Cache-Control "no-store";
       expires    off;
     }
+
     location ~* \.([all the extensions you want to cache])$ {
       add_header Cache-Control "public";
       expires +1y;
     }
 
-    rewrite ^([^.]*[^/])\$ \$1/ permanent;
+    rewrite ^([^.\?]*[^/])$ $1/ permanent
 
-    try_files \$uri \$uri/ \$uri/index.html =404;
-    
+    try_files $uri $uri/ $uri/index.html =404;
+
     [some SSL stuff]
   }
 }
