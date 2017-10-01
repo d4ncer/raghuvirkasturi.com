@@ -3,6 +3,7 @@
 Main purpose is coming up with fun names for releases.
 
 ### [master]
+* Update `package-lock.json` to 1.0.2
 
 ### 1.0.2 "jazz hands"
 * Use `npm` instead of `yarn` in Makefile
