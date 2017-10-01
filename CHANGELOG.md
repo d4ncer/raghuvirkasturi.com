@@ -3,7 +3,12 @@
 Main purpose is coming up with fun names for releases.
 
 ### [master]
+
+### 1.0.3 "lavender gooms"
 * Update `package-lock.json` to 1.0.2
+* Add post: *gatsby-nginx-config*
+* Fix lint errors
+* Add tomorrow theme for Prism
 
 ### 1.0.2 "jazz hands"
 * Use `npm` instead of `yarn` in Makefile
