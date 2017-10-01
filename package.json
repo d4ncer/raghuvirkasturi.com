@@ -47,6 +47,8 @@
   "scripts": {
     "start": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
+    "lint:css": "stylelint 'src/**/*.css'",
+    "vet": "yarn lint && yarn lint:css",
     "prettify": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "build": "gatsby build",
     "deploy": "make deploy"
