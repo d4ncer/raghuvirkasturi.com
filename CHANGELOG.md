@@ -4,6 +4,9 @@ Main purpose is coming up with fun names for releases.
 
 ### [master]
 
+### 1.0.4 "godamn nginx"
+* Add 404 page
+
 ### 1.0.3 "lavender gooms"
 * Update `package-lock.json` to 1.0.2
 * Add post: *gatsby-nginx-config*
