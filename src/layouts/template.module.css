@@ -1,0 +1,11 @@
+@import 'normalize.css';
+@import '../styles/variables.css';
+
+.container {
+  margin: 0 auto;
+  color: #333;
+
+  & a {
+    text-decoration: none;
+  }
+}

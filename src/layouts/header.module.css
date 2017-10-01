@@ -1,0 +1,17 @@
+@import '../styles/variables.css';
+
+.container {
+  font-family: sans-serif;
+  padding: 1.625rem 0;
+  margin-bottom: 1.625rem;
+  background: var(--primary-color);
+
+  & a {
+    color: white;
+  }
+}
+
+.inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
