@@ -4,6 +4,9 @@ Main purpose is coming up with fun names for releases.
 
 ### [master]
 
+### 1.0.5 "ok. i'm ok"
+* Fix issues with nginx config
+
 ### 1.0.4 "godamn nginx"
 * Add 404 page
 
