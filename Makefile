@@ -8,8 +8,8 @@ NAME = $(shell node -p "require('./package.json').name")
 
 build: clean
 		@echo '--> Building artifact.'
-		yarn install
-		yarn build
+		npm install
+		npm run build
 
 clean:
 		@echo '--> Cleaning up.'

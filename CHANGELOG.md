@@ -3,6 +3,7 @@
 Main purpose is coming up with fun names for releases.
 
 ### [master]
+* Use `npm` instead of `yarn` in Makefile
 
 ### 1.0.1 "hummingbird saltalamacchia"
 * Move `normalize.css` into repo due to bug. More [here](https://github.com/gatsbyjs/gatsby/issues/1624)
