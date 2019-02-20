@@ -6,6 +6,13 @@ MoragaTheme.overrideThemeStyles = () => {
     'a.gatsby-resp-image-link': {
       boxShadow: `none`,
     },
+    a: {
+      color: '#eb7966',
+    },
+    'a:hover': {
+      color: '#B84633',
+      textDecoration: 'none',
+    },
   };
 };
 
