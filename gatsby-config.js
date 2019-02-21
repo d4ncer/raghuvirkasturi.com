@@ -5,7 +5,6 @@ module.exports = {
     description: 'The things in my head',
     siteUrl: 'https://raghuvirkasturi.com',
     social: {
-      twitter: '_d4ncer',
       github: 'd4ncer',
     },
   },
