@@ -9,7 +9,7 @@ through AWS documentation.
 
 After some searching, I found an adequate NGINX config that I could crib from in
 the [gatsby-docker](https://github.com/gatsbyjs/gatsby-docker) repo, and I ended
-up with::
+up with:
 
 ```nginx
 worker_processes    auto;
